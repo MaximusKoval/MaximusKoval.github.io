@@ -1,1 +1,1 @@
-alert("All data are fictitious.");
+alert("Не суди сторого, это мой первый сайт ;)");
